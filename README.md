@@ -1,6 +1,6 @@
 # AI-Powered Freshdesk Ticket Assistant
 
-An open-source tool that integrates with Freshdesk to generate intelligent AI responses for support tickets, with specialized tech instructions for support agents.
+A tool that integrates with Freshdesk to generate intelligent AI responses for support tickets, with specialized tech instructions for support agents.
 
 
 ## Features
